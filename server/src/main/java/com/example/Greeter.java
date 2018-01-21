@@ -1,4 +1,4 @@
-package com.example;
+package cl.victormerino;
 
 /**
  * This is a class.
