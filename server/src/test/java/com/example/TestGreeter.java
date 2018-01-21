@@ -1,4 +1,4 @@
-package com.example;
+package cl.victormerino;
 
 import org.junit.Before;
 import org.junit.Test;
