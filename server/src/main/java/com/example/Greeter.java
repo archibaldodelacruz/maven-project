@@ -24,6 +24,7 @@ public class Greeter {
 
   /**
   * @param Name
+  * @return Saluda con nombre
   */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
