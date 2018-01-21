@@ -8,7 +8,7 @@
 * @author somebody
 * @version 1.0
 */
-package cl.victormerino;
+package com.example;
 
 /**
  * This is a class.
